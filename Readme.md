@@ -1,7 +1,7 @@
 
-# Lokesh A.V.V.N.
+# Hi, This is Lokesh A.V.V.N.
 
-## About Me
+## And, this is about Me
 
 I am an experienced IT Infrastructure, Deployment, and DevOps professional with over 15 years of experience supporting enterprise applications, cloud platforms, server infrastructure, storage systems, and large-scale deployment operations.
 
